@@ -2,6 +2,13 @@
 私はマレーシアから来ました、２０００　年生まれた。今は機械工学で働くですけど。プログラミングをします.
 
 
+- 🔭 I’m currently working on something i cant tell
+- 🌱 I’m currently learning full fletched C++
+- 💬 Ask me about anything
+- 📫 How to reach me: +60102367603 || pleechinhowe.20@gmail.com
+- ⚡ Fun fact: I play sports and i love dogs
+
+
 ## Known Programming Languages
 
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
