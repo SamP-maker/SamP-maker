@@ -1,5 +1,8 @@
-## Hi there 👋
+## ようこそ 🤗
 
+♯＃ここに私のこちらが私の既知のプログラミング言語です
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 <!--
 **SamP-maker/SamP-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
