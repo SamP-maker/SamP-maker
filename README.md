@@ -1,7 +1,7 @@
 ## ようこそ 🤗
 私はマレーシアから来ました、２０００　年生まれた。今は機械工学で働くですけど。プログラミングをします.
 
-## こちらが私の既知のプログラミング言語です
+- ## Known Programming Languages
 
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
