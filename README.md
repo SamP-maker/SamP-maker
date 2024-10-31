@@ -11,7 +11,7 @@
 
 ## Known Programming Languages
 
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![GoLang](https://img.icons8.com/color/48/000000/GoLang.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Golang](https://img.icons8.com/color/48/000000/Golang.png)
 
 ## Known Frameworks and Tools
 
